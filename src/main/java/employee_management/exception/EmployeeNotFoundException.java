@@ -1,4 +1,4 @@
-package employee_management;
+package employee_management.exception;
 
 public class EmployeeNotFoundException extends RuntimeException {
 

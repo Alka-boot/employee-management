@@ -3,7 +3,7 @@ package employee_management.service;
 import employee_management.dto.EmployeeDTO;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
-import employee_management.EmployeeNotFoundException;
+import employee_management.exception.EmployeeNotFoundException;
 import employee_management.entity.Employee;
 import employee_management.repository.EmployeeRepository;
 import org.springframework.stereotype.Service;

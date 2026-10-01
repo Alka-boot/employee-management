@@ -1,4 +1,4 @@
-package employee_management;
+package employee_management.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.MethodArgumentNotValidException;
